@@ -6,6 +6,8 @@ When a link is copied from a web page and posted into rich-text environments suc
 
 When the content of the clipboard is pasted into an environment that doesn't support rich text, such as Notepad, only the link text should be pasted.
 
+I will keep updating this repository as I learn more about compatibility with browsers other than Google Chrome, etc.
+
 ## References
 
 [This answer](https://stackoverflow.com/a/69110972/17568469) to [Javascript - Copy string to clipboard as text/html](https://stackoverflow.com/questions/34191780/javascript-copy-string-to-clipboard-as-text-html)
